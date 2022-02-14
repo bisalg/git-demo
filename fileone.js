@@ -5,3 +5,7 @@ const returnName = () => {
 const returnCatagory = () => {
 	return 'general';
 };
+
+const returnCaste = () => {
+	return 'maratha';
+};
